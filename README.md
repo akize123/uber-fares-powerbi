@@ -48,5 +48,5 @@ python uber_analysis.py
 - Screenshots and Power BI files in the `Screenshot/` folder
 
 ---
-**Author:** [Your Name]
+**Author:** [Akize israel]
 **Date:** July 2025
